@@ -7,7 +7,7 @@ class HelloController {
 
     @RequestMapping("/zhangqinyu")
     public String hello() {
-        return "Hello zhangqinyu!";
+        return "Hello dada!";
     }
 
 }
